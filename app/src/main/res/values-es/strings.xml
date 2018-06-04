@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hola Jcper</string>
+    <string name="boton">Cambiar dato</string>
+    <string name="lanzar">Mensaje Toast Lanzado</string>
+    <string name="actividad">Nueva actividad</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
